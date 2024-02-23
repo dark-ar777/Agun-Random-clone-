@@ -1,4 +1,10 @@
+COMMANDS:⬇️
+
+
+
 cd
+
+termux-setup-storage
 
 pkg update
 
@@ -18,3 +24,8 @@ cd Agun-Random-clone-/
 ls
 
 python Tiger-Asik2.0.py
+
+
+
+
+
